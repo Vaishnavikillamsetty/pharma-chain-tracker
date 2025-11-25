@@ -37,6 +37,7 @@ git clone https://github.com/vaishnavi-killamsetty/pharma-chain-tracker.git
 
 ### 2️⃣ Install Dependencies
 cd pharma-chain-tracker
+
 npm install
 
 ### 3️⃣ Run the Project
