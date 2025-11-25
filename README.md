@@ -1,61 +1,73 @@
-💊 Pharma Chain Tracker
+#💊 Pharma Chain Tracker
 
 A web-based pharmaceutical tracking system built to ensure authenticity, transparency, and traceability across the entire medicine supply chain.
 
-📌 Features
+---
 
-Track medicines from manufacturer → distributor → retailer
+##📌 Features
 
-Maintain real-time transaction history
+*Track medicines from manufacturer → distributor → retailer
 
-Detect expired or counterfeit batches
+*Maintain real-time transaction history
 
-Provide role-based access
+*Detect expired or counterfeit batches
 
-Simple, clean, and structured workflow
+*Provide role-based access
 
-🛠️ Tech Stack
+*Simple, clean, and structured workflow
 
-Frontend: HTML, CSS, JavaScript
+---
 
-Backend: Node.js
+##🛠️ Tech Stack
 
-Database: MongoDB
+###Frontend: HTML, CSS, JavaScript,react.js
 
-Version Control: Git & GitHub
+###Backend: Node.js,express.js
 
-🖥️ Setup Guide
+###Database: sqlite
 
-1️⃣ Clone the Repository
+
+
+---
+
+##🖥️ Setup Guide
+
+1️⃣ ###Clone the Repository
 git clone https://github.com/vaishnavi-killamsetty/pharma-chain-tracker.git
 
-2️⃣ Install Dependencies
+2️⃣ ###Install Dependencies
 cd pharma-chain-tracker
 npm install
 
-3️⃣ Run the Project
+3️⃣ ###Run the Project
 npm start
 
-🚀 Future Enhancements
+---
 
-🔐 Authentication system
+##🚀 Future Enhancements
 
-🧾 QR scanning support
+###🔐 Authentication system
 
-⛓️ Blockchain integration
+###🧾 QR scanning support
 
-📱 Fully responsive UI
+###⛓️ Blockchain integration
 
-👥 Developer Info
+###📱 Fully responsive UI
 
-👩‍💻 Developed by Vaishnavi Killamsetty
-📅 Year: 2025
+---
+
+##👥 Developer Info
+
+###👩‍💻 Developed by Vaishnavi Killamsetty
+###📅 Year: 2025
 
 🔗 GitHub: https://github.com/vaishnavi-killamsetty
 
 🔗 LinkedIn: https://www.linkedin.com/in/vaishnavi-killamsetty-bb0517314
 
-📄 License
+---
+
+##📄 License
 
 This project is available for learning and personal use.
 Please provide credit if reused or modified.
